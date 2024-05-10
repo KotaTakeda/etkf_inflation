@@ -48,10 +48,12 @@ LINESTYLES = [
     ":",
     "-.",
 ]
-
+# https://matplotlib.org/stable/gallery/lines_bars_and_markers/linestyles.html
 
 # utility functions to draw lines
 # ----------------------------
+
+
 def get_marker_cycle():
     return itertools.cycle(MARKERS)
 
@@ -64,7 +66,7 @@ def get_color_palette(n_colors, pallet_name=None):
     """
     Args:
         n_colors (int):
-        pallet_name (str): None, or pallet name for sns.color_palette, 
+        pallet_name (str): None, or pallet name for sns.color_palette,
             e.g. "flare", "ch:s=.25,rot=-.25".
             https://seaborn.pydata.org/generated/seaborn.color_palette.html
     """
