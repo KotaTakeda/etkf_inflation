@@ -75,3 +75,6 @@ figure.dpi           : 100        ## figure dots per inch
 #### SAVING FIGURES
 savefig.dpi          : figure   ## figure dots per inch or 'figure'
 savefig.format       : pdf      ## png, ps, pdf, svg
+
+### PDF backend params
+# pdf.fonttype:      42  # Output Type 3 (Type3) or Type 42 (TrueType)
