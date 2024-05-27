@@ -22,4 +22,4 @@ pip install -r requirements.txt
   - burn_in = N/2
 - Assimilate by ETKF
     - m = 41
-    - alpha = 1.0, 1.5, 2.0
+    - alpha = 1.0, 1.1, 5.0
