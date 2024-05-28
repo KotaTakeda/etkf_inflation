@@ -1,0 +1,3 @@
+[submodule "da_py"]
+	path = da_py
+	url = https://github.com/KotaTakeda/da_py.git
