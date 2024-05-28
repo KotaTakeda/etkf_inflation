@@ -2,7 +2,7 @@
 
 # requirements
 ```
-pip install git+https://github.com/KotaTakeda/da_py.git@v0.2.5
+pip install ./da_py
 pip install -r requirements.txt
 ```
 
