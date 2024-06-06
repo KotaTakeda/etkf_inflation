@@ -1,6 +1,9 @@
 # ETKF & Inflation
+Codes to generate the numerical results in the paper [1].
 
-# requirements
+[1] K. Takeda and T. Sakajo, Uniform error bounds of the ensemble transform Kalman filter for chaotic dynamics with multiplicative covariance inflation, submitted 2024.
+
+## Requirements
 ```
 pip install ./da_py
 pip install -r requirements.txt
