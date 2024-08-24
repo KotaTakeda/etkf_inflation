@@ -9,14 +9,15 @@ pip install ./da_py
 pip install -r requirements.txt
 ```
 
-## Setting
+## Example (`l96_etkf.ipynb`)
+### Setting
 - Lorenz96
   - J = 40
   - F = 8
 - Simulate
   - scheme = RK4
   - dt = 0.01
-  - N = 20*360*2
+  - N = 20 * 360 * 2
 - Observation (full observation)
   - r = sqrt(0.1)
   - H = I_40
@@ -26,3 +27,4 @@ pip install -r requirements.txt
 - Assimilate by ETKF
     - m = 41
     - alpha = 1.0, 1.1, 5.0
+ 
