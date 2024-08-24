@@ -28,3 +28,6 @@ pip install -r requirements.txt
     - m = 41
     - alpha = 1.0, 1.1, 5.0
  
+### Results
+![square error](https://github.com/KotaTakeda/etkf_inflation/blob/main/data/l96-etkf-inflation_se.png)
+![eigen value](https://github.com/KotaTakeda/etkf_inflation/blob/main/data/l96-etkf-inflation_eval.png)
