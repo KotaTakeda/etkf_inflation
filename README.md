@@ -1,7 +1,7 @@
 # ETKF & Inflation
 Codes to generate the numerical results in the paper [1].
 
-[1] K. Takeda and T. Sakajo, Uniform error bounds of the ensemble transform Kalman filter for chaotic dynamics with multiplicative covariance inflation, submitted 2024.
+[1]  **Uniform error bounds of the ensemble transform Kalman filter for chaotic dynamics with multiplicative covariance inflation** <br> <u>K. Takeda</u> and T. Sakajo, SIAM/ASA Journal on Uncertainty Quantification, 12(4), 1315-1335. <br> [![DOI](https://img.shields.io/badge/DOI-10.1137/22M1543550-lightblue?labelColor=lightgrey)](https://doi.org/10.1137/24M1637192)
 
 ## Requirements
 ```
