@@ -1,6 +1,7 @@
 # data
 # data/*
 *.npy
+*.zip
 
 # vscode
 .vscode/*
